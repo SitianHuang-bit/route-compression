@@ -1,0 +1,24 @@
+# Large data files
+compress/data/*.bz2
+compress/data/*.db
+compress/lib/geoip/*.mmdb
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
